@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.centered-content {
+  width: 100%;
+  max-width: 400px; /* Ajusta según el ancho deseado de tu Card */
+  margin: 0 auto; /* Centra la Card horizontalmente */
+}
+
+.text-center {
+  text-align: center;
+}
+
